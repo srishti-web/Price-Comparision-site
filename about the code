@@ -1,0 +1,8 @@
+We used webscrapping for this project
+We have used Python libraries like beautifulsoup and tkinter
+1. Beautifulsoup is a Python library that is used for web scraping purposes to pull the data out of HTML and XML files.
+It creates a parse tree from page source code that can be used to extract data.
+
+2.Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications
+
+Happy Coding!
