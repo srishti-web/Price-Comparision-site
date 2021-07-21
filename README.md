@@ -1,5 +1,5 @@
 # Price-Comparision-site
-In todays time online shopping is more popular than ever, it is convenient and safe.
+In today's time online shopping is more popular than ever, it is convenient and safe.
 Price comparison sites and comparison-shopping engines gives ecommerce traders a good opportunity to boost their sales, attract new customers and go ahead against 
 their competitors. Even Shoppers often look for best deals and offers for a particular product which they are looking for. It is difficult to visit each and every
 website for comparing the deals or a price of a particular product. 
